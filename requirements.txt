@@ -1,5 +1,10 @@
 streamlit
-tensorflow
-pillow
-bcrypt
+tensorflow==2.15.0
 numpy
+Pillow
+bcrypt
+pandas
+opencv-python-headless
+matplotlib
+scikit-learn
+fpdf2
